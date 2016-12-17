@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-9af0d0ba6c132500e3245478a9c9de37fd757d52.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-b18a1221f920313fffadeb21fbef6099624328c9.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-a2f3fab099e008543b90ed321905dd1695883981.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-f4126478eada8051ebee3ee06de87f6dff753a22.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.google.android.support\wearable\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-52e1c9c1bad1aff4df407a109d8d4f712989b7cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d549de19b12dc583c9c92b246b485ac9c23198e7.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-33c83fcb98d099267b0efafd1908e36853a7bada.jar" />
+    </item>
+    <item
+        jar="D:\Udacity Android\SunShine\watchface\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Udacity Android\SunShine\watchface\build\intermediates\pre-dexed\debug\classes-f44bba16a47ca33031685de75c3e2ebb40982500.jar" />
+    </item>
+
+</items>
